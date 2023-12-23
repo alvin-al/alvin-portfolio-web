@@ -10,7 +10,7 @@ module.exports = {
       width: {
         'desktop' : '1024px',
 
-      }
+      },
     },
   },
   plugins: [],
